@@ -1,16 +1,16 @@
 ### Hi there 👋
+# I'Am Alexsandro!
 
-<!--
-**Alexsandro-Ctba/Alexsandro-Ctba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Nodejs, React e React-native
 
-Here are some ideas to get you started:
+ I am Studant of Web Development and back-end
+ 
+ Social network:
+ 
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantoshttps://github.com/Alexsandro-Ctba)](https://github.com/Alexsandro-Ctba)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexctba/)](https://www.linkedin.com/in/alexctba/)
+ [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWebhttps://www.youtube.com/user/alexteixas/about)](https://www.youtube.com/user/alexteixas/about)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ 
+ 
