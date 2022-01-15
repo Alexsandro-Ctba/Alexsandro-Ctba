@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'Am Alexsandro!
 
-- 🌱 I’m currently learning Nodejs, React e React-native
+- 🌱 I’m currently learning Nodejs and React-native
 
  I am Studant of Web Development and back-end
  
