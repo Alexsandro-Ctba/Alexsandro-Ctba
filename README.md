@@ -1,9 +1,9 @@
 ### Hi there 👋
 # I'Am Alexsandro!
 
-- 🌱 I’m currently learning Nodejs and React-native
+- 🌱 I’m currently learning analysis and systems development
 
- I am Studant of Web Development and back-end
+ I am Studant of Web Development, Back-end and Business Intelligence
  
  Social network:
  
